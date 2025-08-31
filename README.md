@@ -6,7 +6,7 @@ Olá! Eu sou o Otávio, estudante de Ciência da Computação na Universidade Fe
 
 Nascido em 24 de novembro de 2003 em Varginha - MG, sempre fui movido pela curiosidade e interesse em entender como as coisas funcionam.
 
-Atualmente, com 21 anos, concilio a graduação em Ciência da Computação com dois trabalhos na área de tecnologia, onde aplico e aprimoro diariamente os conhecimentos adquiridos no CEFET-MG, na UNIFAL-MG e em estudos independentes.
+Atualmente, com 21 anos, concilio a graduação em Ciência da Computação com trabalhos na área de tecnologia, onde aplico e aprimoro diariamente os conhecimentos adquiridos no CEFET-MG, na UNIFAL-MG e em estudos independentes.
 
 ## 🚀 Tecnologias e Ferramentas
 
