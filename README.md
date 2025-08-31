@@ -4,9 +4,7 @@ Olá! Eu sou o Otávio, estudante de Ciência da Computação na Universidade Fe
 
 ## 🧠 Sobre mim
 
-Nascido em 24 de novembro de 2003 em Varginha - MG, sempre fui movido pela curiosidade e dedicação aos estudos.
-
-Em 2019, após um ano de preparação intensa, conquistei a tão sonhada vaga no ensino médio técnico integral do CEFET-MG no curso de Informática. Inicialmente, minha meta era apenas usufruir da excelente qualidade de ensino da instituição, mas a informática acabou se tornando minha grande paixão.
+Nascido em 24 de novembro de 2003 em Varginha - MG, sempre fui movido pela curiosidade e interesse em entender como as coisas funcionam.
 
 Atualmente, com 21 anos, concilio a graduação em Ciência da Computação com dois trabalhos na área de tecnologia, onde aplico e aprimoro diariamente os conhecimentos adquiridos no CEFET-MG, na UNIFAL-MG e em estudos independentes.
 
